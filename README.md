@@ -17,4 +17,14 @@
 
 **Today's Progress:**
 - Looking at the basic data types of Python and the mathematical operations.
-- Recreated a tip calculator.
+- Recreated a tip calculator using principles covered today.
+
+[![screenshot 2](assets/images/eriksIMG/day2ofHundo.png)](assets/images/full-size/codepen-css-grid3.png)
+
+## Control Flow
+## Day 3: June 3, 2021 - Thursday
+
+**Today's Progress**
+- Came back to control flow, reviewing if/else statements and basic logic.
+- For the final project of the day I created a word adventure game. You make choices which change the outcome of 
+  your journey. This is done mostly with input and print functions and control flow.
