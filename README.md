@@ -21,6 +21,9 @@
 
 [![screenshot 2](assets/images/eriksIMG/day2ofHundo.png)](assets/images/full-size/codepen-css-grid3.png)
 
+---
+
+
 ## Control Flow
 ### Day 3: June 3, 2021 - Thursday
 
@@ -29,6 +32,9 @@
 - For the final project of the day I created a word adventure game. You make choices which change the outcome of 
   your journey. This is done mostly with input and print functions and control flow.
   
+---
+
+
 ## Random and Lists
 ### Day 4: June 4, 2021 - Friday
 
@@ -37,3 +43,15 @@
 - Worked on a rock, paper, scissors game, where you play against your program. It was a fun way to summarze 
   everything I reviewed today.
 - I am close to getting out of my comfort zone with python. Looking forwards to the challenge.  
+
+
+---
+
+## Python Loops
+### Day 5: June 5th, 2021 - Saturday
+
+**Today's Progress**
+- Today was focused on Python loops and the new functions they come with.
+- Created a password generator for the final project.
+
+---
