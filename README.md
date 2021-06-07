@@ -55,3 +55,9 @@
 - Created a password generator for the final project.
 
 ---
+
+## Functions and While Loops
+### Day 6: June 6th, 2021 - Sunday
+
+**Today's Progress**
+- Today's learning was on functions and while loops. Anything after this is undiscovered python territory for me.
