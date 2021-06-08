@@ -61,3 +61,12 @@
 
 **Today's Progress**
 - Today's learning was on functions and while loops. Anything after this is undiscovered python territory for me.
+
+---
+
+## Hangman
+### Day 7: June 7th, 2021 - Monday
+
+**Today's Progress**
+-Today was focused on the creation of the game Hangman. The lessons today were on separate mechanics of the game. 
+This was cool to work on the different parts of the game and put it all together.
