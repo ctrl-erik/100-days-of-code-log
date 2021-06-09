@@ -68,7 +68,8 @@
 ### Day 7: June 7th, 2021 - Monday
 
 **Today's Progress**
--Today was focused on the creation of the game Hangman. The lessons today were on separate mechanics of the game. 
+
+- Today was focused on the creation of the game Hangman. The lessons today were on separate mechanics of the game. 
 This was cool to work on the different parts of the game and put it all together.
 
 ---
