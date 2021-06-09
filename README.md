@@ -70,3 +70,14 @@
 **Today's Progress**
 -Today was focused on the creation of the game Hangman. The lessons today were on separate mechanics of the game. 
 This was cool to work on the different parts of the game and put it all together.
+
+---
+
+## Function Parameters & Caesar Cipher
+### Day 8: June 8th, 2021 - Tuesday
+
+**Today's Progress**
+- Today I covered inputs for functions types of arguments, and encryption and decryption.
+- I Made a paint area calculator and a prime number checker.
+
+---
