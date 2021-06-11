@@ -82,3 +82,18 @@ This was cool to work on the different parts of the game and put it all together
 - I Made a paint area calculator and a prime number checker.
 
 ---
+
+## Python Dictionaries and Auction System
+### Day 9: June 9th, 2021 - Wednesday
+
+**Today's Progress**
+- Today I learned about python dictionaries and created an auction system.
+
+---
+
+## Python Dictionaries and Auction System
+### Day 10: June 10th, 2021 - Thursday
+
+**Today's Progress**
+- Today was focused on the outputs of functions using return.
+- Created calculator as final project.
