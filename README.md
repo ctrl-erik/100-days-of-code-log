@@ -91,9 +91,17 @@ This was cool to work on the different parts of the game and put it all together
 
 ---
 
-## Python Dictionaries and Auction System
+## Function Outputs
 ### Day 10: June 10th, 2021 - Thursday
 
 **Today's Progress**
 - Today was focused on the outputs of functions using return.
 - Created calculator as final project.
+
+---
+
+## Black Jack Capstone Project
+### Day 11: June 11th, 2021 - Friday
+
+**Today's Progress**
+- Today was focused on the Black Jack capstone project. Falling behind due to bad habits and procrastination.
