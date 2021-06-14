@@ -114,3 +114,15 @@ This was cool to work on the different parts of the game and put it all together
 **Today's Progress**
 - Data storage was the topic for today. I covered global variables, constants and scope.
 - Created number guessing game for the final project.
+
+--- 
+
+
+---
+
+## Debugging
+### Day 13: June 13th, 2021 - Sunday
+
+**Today's Progress**
+- Today's learning was focused on debugging code and general tip on the tools and features that could help. 
+
