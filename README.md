@@ -105,3 +105,12 @@ This was cool to work on the different parts of the game and put it all together
 
 **Today's Progress**
 - Today was focused on the Black Jack capstone project. Falling behind due to bad habits and procrastination.
+
+---
+
+## Scope and Number Guessing Game
+### Day 12: June 12th, 2021 - Saturday
+
+**Today's Progress**
+- Data storage was the topic for today. I covered global variables, constants and scope.
+- Created number guessing game for the final project.
