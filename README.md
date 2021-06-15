@@ -115,9 +115,6 @@ This was cool to work on the different parts of the game and put it all together
 - Data storage was the topic for today. I covered global variables, constants and scope.
 - Created number guessing game for the final project.
 
---- 
-
-
 ---
 
 ## Debugging
@@ -125,4 +122,12 @@ This was cool to work on the different parts of the game and put it all together
 
 **Today's Progress**
 - Today's learning was focused on debugging code and general tip on the tools and features that could help. 
+
+---
+
+## Higher/Lower Game Project
+### Day 14: June 14th, 2021 - Monday
+
+**Today's Progress**
+- Today was focused on a higher/lower game. Nice and short lessons today, but still fun to do.
 
