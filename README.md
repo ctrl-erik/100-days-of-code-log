@@ -131,3 +131,19 @@ This was cool to work on the different parts of the game and put it all together
 **Today's Progress**
 - Today was focused on a higher/lower game. Nice and short lessons today, but still fun to do.
 
+---
+
+## PyCharm and Coffee Machine Project
+### Day 15: June 15th, 2021 - Tuesday
+
+**Today's Progress**
+- Today was focused on getting started on using PyCharm for the course and the Coffee Machine Project.
+
+---
+
+## Object-Oriented Programming
+### Day 16: June 16th, 2021 - Wednesday
+
+**Today's Progress**
+- Today we looked at Object Oriented Programming. We covered what classes and objects are and how to use them.
+- This is familiar because of my previous experience from school and using OOP with Java, just different syntax.
