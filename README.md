@@ -147,3 +147,10 @@ This was cool to work on the different parts of the game and put it all together
 **Today's Progress**
 - Today we looked at Object Oriented Programming. We covered what classes and objects are and how to use them.
 - This is familiar because of my previous experience from school and using OOP with Java, just different syntax.
+
+## Creating Classes and Quizzing Game
+### Day 17: June 17th, 2021 - Thursday
+
+**Today's Progress**
+- Today we focused on creating classes, class methods and constructors.
+- The main project was creating a quizzing game that highlighted a classes abilities. 
