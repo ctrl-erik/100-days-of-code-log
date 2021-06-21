@@ -145,12 +145,41 @@ This was cool to work on the different parts of the game and put it all together
 ### Day 16: June 16th, 2021 - Wednesday
 
 **Today's Progress**
-- Today we looked at Object Oriented Programming. We covered what classes and objects are and how to use them.
+- Today we looked at Object-Oriented Programming. We covered what classes and objects are and how to use them.
 - This is familiar because of my previous experience from school and using OOP with Java, just different syntax.
+
+---
 
 ## Creating Classes and Quizzing Game
 ### Day 17: June 17th, 2021 - Thursday
 
 **Today's Progress**
 - Today we focused on creating classes, class methods and constructors.
-- The main project was creating a quizzing game that highlighted a classes abilities. 
+- The main project was creating a quizzing game that highlighted a classes abilities.
+
+---
+
+## Graphical User Interface
+### Day 18: June 18th, 2021 - Friday
+
+**Today's Progress**
+- Working on GUI on python and being introduced to the new properties.
+
+---
+
+## Instances, State and Higher Order Functions.
+### Day 19: June 19th, 2021 - Saturday
+
+**Today's Progress**
+- Was introduced to higher order functions and learned about the turtle coordinate system.
+- Got a new keyboard, feeling more motivated to code with it.
+
+---
+
+## The Snake Game Pt. 1
+### Day 20: June 20th, 2021 - Sunday
+
+**Today's Progress**
+- Failed to mention in tweet that it is a two part project.
+- Working with GUI, OOP and user input to control the snake.
+  
