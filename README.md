@@ -182,4 +182,12 @@ This was cool to work on the different parts of the game and put it all together
 **Today's Progress**
 - Failed to mention in tweet that it is a two part project.
 - Working with GUI, OOP and user input to control the snake.
+
+
+## The Snake Game Pt. 2
+### Day 21: June 21st, 2021 - Monday
+
+**Today's Progress**
+- Working on part 2 of the snake game project.
+- Learned class inheritnace, and worked on game mechanics for the snake.
   
