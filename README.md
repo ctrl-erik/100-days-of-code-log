@@ -183,11 +183,30 @@ This was cool to work on the different parts of the game and put it all together
 - Failed to mention in tweet that it is a two part project.
 - Working with GUI, OOP and user input to control the snake.
 
+---
 
 ## The Snake Game Pt. 2
 ### Day 21: June 21st, 2021 - Monday
 
 **Today's Progress**
 - Working on part 2 of the snake game project.
-- Learned class inheritnace, and worked on game mechanics for the snake.
+- Learned class inheritance, and worked on game mechanics for the snake.
+
+---
+
+## The Pong Game
+### Day 22: June 22nd, 2021 - Tuesday
+
+**Today's Progress**
+- Today was spent on the recreation of the old school video game pong.
+- Mainly Used OOP to recreate this game.
+
+---
+
+## Turtle Crossing Capstone
+### Day 23: June 23rd, 2021 - Wednesday
+
+**Today's Progress**
+- Today was for the Turtle Crossing Capstone Project.
+- Broke down the game and it's properties.
   
