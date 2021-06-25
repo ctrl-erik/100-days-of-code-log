@@ -209,4 +209,13 @@ This was cool to work on the different parts of the game and put it all together
 **Today's Progress**
 - Today was for the Turtle Crossing Capstone Project.
 - Broke down the game and it's properties.
-  
+
+---
+
+## File, Directories and Paths
+### Day 24: June 24rd, 2021 - Thursday
+
+**Today's Progress**
+- Today was spent on learning more about files and directories.
+- Never focused more on a projects files, pretty new to me.
+
