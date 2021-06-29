@@ -213,9 +213,50 @@ This was cool to work on the different parts of the game and put it all together
 ---
 
 ## File, Directories and Paths
-### Day 24: June 24rd, 2021 - Thursday
+### Day 24: June 24th, 2021 - Thursday
 
 **Today's Progress**
 - Today was spent on learning more about files and directories.
 - Never focused more on a projects files, pretty new to me.
+---
+
+## CSV Data, Pandas Library
+### Day 25: June 25th, 2021 - Friday
+
+**Today's Progress**
+- CSV Data sounded completely foreign, but the instructor did a good job in explaining.
+- I am slacking off with tweets and updating my repo. I am looking to add second repo for code.
+- Created a game for the final project.
+---
+
+## List Comprehension and the NATO Alphabet
+### Day 26: June 26th, 2021 - Saturday
+
+**Today's Progress**
+- Learned about the NATO alphabet.
+- I keep on repeating my self and saying this is new to me... all of it will be new to me.
+
+
+---
+
+## Tkinker and GUI Programs
+### Day 27: June 27th, 2021 - Sunday
+
+**Today's Progress**
+- Was introduced to Tkinker for GUI
+- Learned about *args and **kwargs.
+
+---
+
+## Pomodoro GUI Application
+### Day 28: June 28th, 2021 - Monday
+
+**Today's Progress**
+- Created the Pomodoro GUI Application
+- Used modular programming for the completion of the project.
+- Timers used for this application.
+
+
+
+
 
