@@ -243,7 +243,7 @@ This was cool to work on the different parts of the game and put it all together
 ### Day 27: June 27th, 2021 - Sunday
 
 **Today's Progress**
-- Was introduced to Tkinker for GUI
+- Was introduced to Tkinter for GUI
 - Learned about *args and **kwargs.
 
 ---
@@ -256,6 +256,23 @@ This was cool to work on the different parts of the game and put it all together
 - Used modular programming for the completion of the project.
 - Timers used for this application.
 
+---
+
+## Password Manager GUI App with Tkinter
+### Day 29: June 29th, 2021 - Tuesday
+
+**Today's Progress**
+- Created a password manager app with Tkinter.
+- Images and saving data was used in the making of the application.
+
+---
+
+## Error Handling, Exceptions and JSON Data
+### Day 30: June 30th, 2021 - Wednesday
+
+**Today's Progress**
+- Today was spent on dealing with errors.
+- Updated the password manager application with exception handling and the use of JSON data.
 
 
 
