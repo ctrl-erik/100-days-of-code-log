@@ -274,6 +274,16 @@ This was cool to work on the different parts of the game and put it all together
 - Today was spent on dealing with errors.
 - Updated the password manager application with exception handling and the use of JSON data.
 
+---
+
+## Flash Card App Capstone
+### Day 31: July 1st, 2021 - Thursday
+
+**Today's Progress**
+- Worked on flash card app capstone. Angela (the course instructor) broke down the project into lessons, making the 
+  whole process easier.
+- Used Tkinter for UI. 
+
 
 
 
