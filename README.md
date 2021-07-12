@@ -284,6 +284,13 @@ This was cool to work on the different parts of the game and put it all together
   whole process easier.
 - Used Tkinter for UI. 
 
+## Sending Email and Managing Dates
+### Day 32: July 2nd, 2021 - Friday
+
+**Today's Progress**
+- Learned about Google SMTP Port, and sent emails with it.
+- Created an automated birthday wisher that used the date to function.
+
 
 
 
