@@ -289,7 +289,18 @@ This was cool to work on the different parts of the game and put it all together
 
 **Today's Progress**
 - Learned about Google SMTP Port, and sent emails with it.
-- Created an automated birthday wisher that used the date to function.
+- Created an automated birthday wisher that used the date to function
+
+
+## API Endpoints & Parameters
+### Day 33: July 3nd, 2021 - Monday
+
+**Today's Progress**
+- Created Kanye Quotes App, and an ISS Overhead Notifier Project.
+- Learnt about HTTP Codes, Exceptions and JSON data.
+
+
+
 
 
 
